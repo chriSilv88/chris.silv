@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*hm7aE3BdUfUWUgBYK1GiZA.jpeg)
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
 <img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" />
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate Full stack developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=russlan88&label=Profile%20views&color=0e75b6&style=flat" alt="russlan88" /> </p>
 
@@ -15,13 +15,12 @@ Recent development:
 - 🔭 I’m currently working on <a href="https://github.com/Russlan88/Online-cinema">Online cinema app</a>
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
 
-- 🌱 I’m currently learning **Angular, NestJs, Express, PostreSQL**
+- 🌱 I’m working with **Angular, NestJs, Express, PostreSQL, React, Redux**
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **russlik88@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny 😆 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
