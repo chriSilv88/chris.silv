@@ -7,13 +7,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chris" alt="Chris" /></a> </p>
 
 Recent development:
-- <a href="https://github.com/Russlan88/Movie-app__react.js" target="_blank">Movie App</a>
-- <a href="https://github.com/Russlan88/tik-tak-toe" target="_blank">Tic Tac Toe</a>
-- <a href="https://github.com/Russlan88/chicken-guy-app" target="_blank">Chicken Guy</a>
-- <a href="https://github.com/Russlan88/Facebook_clone" target="_blank">Facebook clone </a>
-- 🔭 I’m currently working on <a href="https://github.com/Russlan88/Online-cinema">Online cinema app</a>
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
-
+- <a href="https://github.com/chriSilv88/Movie-app__react.js" target="_blank">Movie App</a>
+- <a href="https://github.com/chriSilv88/tik-tak-toe" target="_blank">Tic Tac Toe</a>
+- <a href="https://github.com/chriSilv88/chicken-guy-app" target="_blank">Chicken Guy</a>
+- <a href="https://github.com/chriSilv88/Facebook_clone" target="_blank">Facebook clone </a>
+- 🔭 I’m currently working on <a href="https://github.com/chriSilv88/Online-cinema">Online cinema app</a>
 - 🌱 I’m working with **Angular, NestJs, Express, PostreSQL, React, Redux**
 
 - 💬 Ask me about **MERN**
