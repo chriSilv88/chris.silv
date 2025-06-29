@@ -1,4 +1,4 @@
-<!-- 🚀 MODERN GITHUB PROFILE - FULL STACK ENGINEER -->
+
 <div align="center">
   
 <!-- Dynamic Typing Header -->
